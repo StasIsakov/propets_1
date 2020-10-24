@@ -1,0 +1,12 @@
+.petsPic{
+    max-height: 300px;
+}
+.listHeader{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #669885;
+    text-align: center;
+}
+.list{
+    font-weight: 500;
+}

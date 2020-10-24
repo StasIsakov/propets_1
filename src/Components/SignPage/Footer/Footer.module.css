@@ -1,0 +1,44 @@
+.text{
+    opacity: 70%;
+    display: inline;
+}
+
+.underlinedText{
+    text-decoration-line: underline;
+}
+
+.buttonBlock{
+    display: flex;
+    text-align: center;
+}
+
+.submitButton{
+    border-radius: 17px;
+    background: #84B6A3 0% 0% no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    width: 148px;
+    height: 34px;
+    opacity: 1;
+    color: white;
+    background-image: url("../../../utils/Images/foundPic.png");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position-x: 10px;
+    background-position-y: 5px;
+
+}
+
+.cancelButton{
+    border-radius: 17px;
+    border: 1px solid #8DBFAC;
+    background-color: white;
+    color: #84B6A3;
+    width: 105px;
+    height: 34px;
+    opacity: 1;
+}
+
+.borderClass{
+    border-top: 1px solid #BABABA;
+    opacity: 1;
+}

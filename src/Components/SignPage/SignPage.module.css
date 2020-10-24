@@ -1,0 +1,37 @@
+.text{
+    color: #669885;
+    font-size: larger;
+}
+.bold{
+  font-weight: bold;
+}
+.propetsLogo{
+    max-width: 200px!important;
+}
+.facebookButton {
+    background-image: url("../../utils/Images/roundFacebookIcon.png");
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position-x: 4px;
+    background-position-y: 3px;
+    color: white;
+    height: 43px;
+    width: 300px;
+    font-size: large;
+    text-align: center;
+    background-color: #4560A6;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.signInUp{
+    opacity: 0.7;
+    height: 40px;
+    background-color: #84B6A3;
+    border: 1px solid #707070;
+
+}
+.signInUpActive{
+    opacity: 1;
+}

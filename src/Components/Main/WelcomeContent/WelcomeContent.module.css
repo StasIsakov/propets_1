@@ -1,0 +1,70 @@
+.greenText{
+    color: #669885;
+}
+.hText{
+    font-size: 50px;
+    font-weight: 600;
+}
+.welcomeTextDiv{
+    height: 500px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.backGround{
+    background-image: url("../../../utils/Images/mainPagePuppy.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: 100%;
+    background-attachment: scroll;
+
+}
+.backGround{
+
+}
+.buttonsDiv{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 300;
+    height: 10em;
+    line-height: 93px;
+    margin-left: -235px;
+}
+
+.lostButton{
+    height: 93px;
+    width: 555px;
+    border-top-left-radius:50px ;
+    border-bottom-left-radius:50px ;
+    border-top-right-radius:50px ;
+    border-bottom-right-radius:50px ;
+    background-color: #FFE18B;
+    background-image: url("../../../utils/Images/pawSearch.png");
+    background-repeat: no-repeat;
+    background-position-x: 465px;
+    background-position-y: 10px;
+    background-size: contain;
+    font-family: 'Montserrat', sans-serif;
+}
+.lostButton:hover{
+    background-color:#ffc14d !important;
+    content: attr(dataHover)!important;
+}
+.foundButton{
+    height: 93px;
+    width: 490px;
+    border-top-left-radius:50px ;
+    border-bottom-left-radius:50px ;
+    border-top-right-radius:50px ;
+    border-bottom-right-radius:50px ;
+    background-color: #84B6A3;
+    font-family: 'Montserrat', sans-serif;
+}
+.foundButton:hover{
+    background-color:#669885!important;
+}
+.joinLink{
+    margin-left: -20px;
+    background-color: #FFFFFF!important;
+    border-color: #FFFFFF!important;
+    width: fit-content;
+}

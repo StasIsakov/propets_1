@@ -1,0 +1,34 @@
+.inputForm{
+    border: none;
+    border-bottom: 1px solid #669885;
+    width: 200px;
+}
+.inputForm::placeholder{
+    width: 300px;
+}
+.inputFormsArea{
+    text-align: right;
+    size: 450px
+}
+.labeledInput{
+    margin-top: 10px;
+}
+.labelClass{
+    margin-right: 10px;
+    text-align: right;
+    width: 70px;
+}
+.sideText{
+    margin-top: 48px;
+    opacity: 0.7;
+    font-size: 14px;
+}
+.invis{
+    display: none;
+}
+.forgotPassword{
+    margin-top: 60px;
+    margin-left: 80px;
+    opacity: 70%;
+    text-decoration-line: underline;
+}
